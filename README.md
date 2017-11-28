@@ -1,2 +1,2 @@
 # wdi-fundamentals-memorygame
-The official memory game repository. 
+The official memory game repository. Ignore the other.
